@@ -8,7 +8,7 @@
 
 **Linkedin:**  linkedin.com/in/vladimir-veraksa-4a2a88166
 
-##Objective
+## Objective
 
 Junior JavaScript Developer	
 
