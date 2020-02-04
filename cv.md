@@ -8,7 +8,7 @@
 
 **Linkedin:**  linkedin.com/in/vladimir-veraksa-4a2a88166
 
-**Objective**
+##Objective
 
 Junior JavaScript Developer	
 
@@ -64,8 +64,11 @@ mega-omega – child template of WordPress from scratch: source, demo
 *	Optimization of business process
 
 **May, 2018 – Jun, 2018** – student, Educational Center of High-Tech Park (IT-Academy), Belarus, Minsk
+
 **Project:** it-academy.by – website of the Educational Center of High-Tech Park (IT-Academy).
+
 **Project Role:** Tester, Testing team leader.
+
 **Following tasks were performed:** 
 *	Creating of test plan
 *	Creating and executing of check-lists and test cases
@@ -76,8 +79,11 @@ mega-omega – child template of WordPress from scratch: source, demo
 *	Weekly progress reporting
 
 **September, 2017 – April, 2018** - consulting, Hotel Lindenhof, Austria, Bad Gastein
+
 **Project:** https://lindenhof-gastein.ru/ (http://hotelstelladelmare.it/), websites for booking rooms in hotels.
+
 **Project Role:** Developer, Tester, Business analyst, Content Manager.
+
 **Following tasks were performed:**
 *	Creating and redesign of websites
 *	Functional testing
