@@ -1,2 +1,2 @@
 **rsschool-cv**
-[https://github.com/baban666/rsschool-cv/cv](https://github.com/baban666/rsschool-cv/cv)
+[https://baban666.github.com/rsschool-cv/cv](https://baban666.github.com/rsschool-cv/cv)
