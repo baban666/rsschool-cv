@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.contacts-info {
+    display: flex;
+    justify-content: start;
+    margin-top: 10px;
+}
+
+header span {
+    margin: 10px 10px 10px 0;
+    font-weight: bold;
+}
+
+header p {
+    margin: 0 10px 10px 10px;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+}
+
+h2{
+    background-color: #151965;
+    max-width: 30%;
+    margin: 10px 0;
+    padding: 5px 10px;
+    color: #fff;
+}
+h3{
+    margin: 5px 0;
+}
+
+li{
+    margin-left: 20px;
+}
+
+footer{
+    background-color: #e3e7f1;
+    margin: 30px 0;
+    text-align: center;
+}
